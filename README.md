@@ -93,9 +93,7 @@ Online_Banking_Transaction_Monitoring/
 
 ---
 
-## 🖥️ Final Power BI Dashboard
-
-> Single-page executive dashboard for transaction monitoring
+## 🖥️ Executive Dashboard for Transaction Monitoring
 
 ![Final Dashboard](images/Online_Banking_Transaction_Monitoring_Dashboard.png)
 
