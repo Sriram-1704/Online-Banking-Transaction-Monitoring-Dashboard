@@ -1,0 +1,43 @@
+ONLINE BANKING TRANSACTION MONITORING DASHBOARD
+
+PROJECT OBJECTIVE
+The objective of this project is to monitor online banking transactions, analyze transaction patterns, and identify high-risk transactions using data analytics and visualization techniques. The dashboard provides a consolidated, single-page view of key transaction metrics to support fraud detection and business decision-making.
+
+BUSINESS PROBLEM
+Financial institutions process a large volume of online transactions daily. Manually identifying suspicious or high-risk transactions is inefficient and prone to error. This project addresses the need for an automated monitoring solution that highlights risk patterns and abnormal transaction behavior.
+
+DATA SOURCES
+- Customer data (CSV files)
+- Transaction data (CSV files)
+- Data stored and managed using MySQL database
+
+TOOLS & TECHNOLOGIES USED
+- Python: Data cleaning, transformation, feature engineering
+- MySQL: Data storage, schema creation, data validation
+- Power BI: Data modeling, KPI calculation, dashboard visualization
+- Excel: Initial data inspection
+
+DATA PROCESSING WORKFLOW
+1. Raw customer and transaction data imported into MySQL
+2. Data cleaned and processed using Python scripts
+3. Risk-related features engineered (risk level, flags, frequency)
+4. Analytics-ready data exported for Power BI
+5. Single-page dashboard created for monitoring and analysis
+
+KEY METRICS (KPIs)
+- Total Transactions
+- Total Transaction Amount
+- Average Transaction Amount
+- High-Risk Transactions
+- High-Risk Percentage
+
+DASHBOARD INSIGHTS
+- Monthly transaction trends reveal seasonal spending patterns
+- Debit transactions slightly exceed credit transactions
+- Certain merchant categories contribute higher transaction volumes
+- High-risk transactions are concentrated in specific months
+
+FINAL OUTCOME
+An Executive-Level Power BI dashboard designed that enables stakeholders to monitor transaction health, identify risk patterns, and support data-driven decisions.
+
+
